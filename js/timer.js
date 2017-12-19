@@ -1,7 +1,7 @@
 $(function(){
     function timer(settings){
         var config = {
-            endDate: '2017-12-23 18:00 10:00',
+            endDate: '2017-12-30 18:00 10:00',
             timeZone: 'Europe/Dublin',
             hours: $('#hours'),
             minutes: $('#minutes'),
